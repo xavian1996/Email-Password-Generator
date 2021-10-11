@@ -21,7 +21,7 @@ print("""
  )__)/(__)\  )  (  )__)    )__)  )    (  /(__)\  _)(_  )(__   ( (_-. )__)  )  ( 
 (__)(__)(__)(_)\_)(____)  (____)(_/\/\_)(__)(__)(____)(____)   \___/(____)(_)\_)
 
-Coded By UnKnown
+Coded By Xavian1996
 """)
 print('[+] Starting Executing The Script .')
 print('[+] Generating Email ! Please Wait 2sec .')
